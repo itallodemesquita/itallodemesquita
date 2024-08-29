@@ -1,8 +1,6 @@
 # Ítallo de Mesquita
 ## Sobre mim
-Olá! Meu nome é Ítallo, tenho 18 anos e estou no meu último ano de ensino médio com técnico em Alimentos, no IFRN - Campus Pau dos Ferros. Pianista amador e apaixonado por esportes, estou começando buscar conhecimentos em programação, computação e ciência de dados.
-
-Atualmente, busco iniciar uma carreira tech nichada na área de dados. Estou em processo de aprendizado e de capacitação em extração, manipulação e análise de dados para desenvolver soluções criativas e efetivas no mundo corporativo, sendo um dos meus objetivos me tornar um profissional em análise de dados e especialista em inteligência de negócios (BI).
+Desenvolvedor (em formação) e calouro do curso de Tecnologia da Informação, da UFERSA. Perfil de estudos e laboratório..
 
 ### Skills
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=14C38E&color") ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=14C38E&color") ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=14C38E&color")
