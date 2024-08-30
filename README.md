@@ -1,6 +1,6 @@
 # Ítallo de Mesquita
 ## Sobre mim
-Desenvolvedor (em formação) e calouro do curso de Tecnologia da Informação, da UFERSA. Perfil de estudos e laboratório..
+Desenvolvedor (em formação) e calouro do curso de Tecnologia da Informação, da UFERSA. Perfil de estudos e laboratório.
 
 ### Skills
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=14C38E&color") ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=14C38E&color") ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=14C38E&color")
