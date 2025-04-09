@@ -1,8 +1,30 @@
-# Ítallo de Mesquita
-## Sobre mim
-Acadêmico do curso de Tecnologia da Informação, da UFERSA. Perfil para projetos e estudos pessoais.
+## Hi there, I'm Ítallo 👋🏻
+
+I'm a Bachelor's student in Information Technology at Federal Rural University of Semi-arid Region (UFERSA).
+I build things that live close to the hardware — mostly with C, CMake, and the Pico SDK.
+I also enjoy working with data and machine learning using Python, Pandas, NumPy, and Scikit-learn.
+
+
+Quiet solutions, clear code, and the beauty of simple things.
+Always learning.
+
+![Itallo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itallodemesquita&show_icons=true&hide_title=true&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itallodemesquita&layout=compact&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=ffffff)
+
+
+
 
 ### Skills
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=14C38E&color") ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=14C38E&color") ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=14C38E&color")
-### Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=14C38E&color")](https://www.linkedin.com/in/%C3%ADtallo-de-mesquita-97a51027b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZPYGtD5wQ5aNvg0w0xj21Q%3D%3D) [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=14C38E&color")](https://github.com/itallodemesquita) [![Outlook](https://img.shields.io/badge/-email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=14C38E&color")](mailto:itallodemesquita@outlook.com.br) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram&logoColor=14C38E&color")](https://www.instagram.com/itallo.mesquita/)
+![C](https://img.shields.io/badge/-C-white?style=for-the-badge&logo=c&logoColor=0A66C2)
+![CMake](https://img.shields.io/badge/-CMake-white?style=for-the-badge&logo=cmake&logoColor=0A66C2)
+![Raspberry Pi](https://img.shields.io/badge/-Pico%20SDK-white?style=for-the-badge&logo=raspberrypi&logoColor=0A66C2)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=0A66C2)
+![Pandas](https://img.shields.io/badge/-Pandas-white?style=for-the-badge&logo=pandas&logoColor=0A66C2)
+![NumPy](https://img.shields.io/badge/-NumPy-white?style=for-the-badge&logo=numpy&logoColor=0A66C2)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=0A66C2)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-white?style=for-the-badge&logo=scikit-learn&logoColor=0A66C2)
+
+### How to reach me?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/itallodemesquita/)
+[![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=0A66C2)](https://github.com/itallodemesquita)
+[![Medium](https://img.shields.io/badge/-Medium-white?style=for-the-badge&logo=medium&logoColor=0A66C2)](https://medium.com/@itallodemesquita)
+
